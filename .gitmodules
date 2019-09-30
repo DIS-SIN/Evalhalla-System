@@ -1,0 +1,16 @@
+[submodule "Evalhalla"]
+	path = Evalhalla
+	url = https://github.com/DIS-SIN/Evalhalla.git
+	branch = master
+[submodule "Valkeyrie"]
+	path = Valkeyrie
+	url = https://github.com/DIS-SIN/Valkeyrie.git
+	branch = master
+[submodule "Valkyrie"]
+	path = Valkyrie
+	url = https://github.com/DIS-SIN/Valkyrie.git
+	branch = master
+[submodule "Gungnir"]
+	path = Gungnir
+	url = https://github.com/DIS-SIN/Gungnir.git
+	branch = master
