@@ -1,0 +1,7 @@
+.env
+**/__pycache__/
+
+Neo4j/data/
+Neo4j/plugins/
+Neo4j/import/
+credentials/
